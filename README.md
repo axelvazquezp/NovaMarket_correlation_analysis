@@ -8,7 +8,11 @@ Este repositorio contiene el análisis exploratorio y correlacional realizado du
 
 ## Cómo abrir el notebook en Google Colab
 
-Haz clic en el enlace directo que se encuentra en la parte superior de tu cuaderno dentro de GitHub para ejecutarlo de manera interactiva, o utiliza la interfaz para clonar este repositorio y abrirlo en tu espacio de trabajo.
+Haz clic en el siguiente botón:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BwMOUSZit072oz_Cc_hoBoYg5sYE0sPD#scrollTo=27eb89b5)
+
+O también puedes usar este enlace directo: [Abrir en Google Colab](https://colab.research.google.com/drive/1BwMOUSZit072oz_Cc_hoBoYg5sYE0sPD#scrollTo=27eb89b5)
 
 ## Objetivo del análisis
 
