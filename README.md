@@ -58,21 +58,14 @@ Haz clic en la insignia inferior para acceder directamente al entorno interactiv
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BwMOUSZit072oz_Cc_hoBoYg5sYE0sPD#scrollTo=27eb89b5)
 
+O también puedes usar este enlace directo: [Abrir en Google Colab](https://colab.research.google.com/drive/1BwMOUSZit072oz_Cc_hoBoYg5sYE0sPD#scrollTo=27eb89b5)
+
 ---
 
 ## 📂 Estructura del Repositorio
 *   `Proyect_Sprint08_Reporte_de_análisis_de_correlación_NovaMarket.ipynb`: Jupyter Notebook principal que aloja el pipeline de limpieza, el desarrollo de las pruebas estadísticas y las visualizaciones descriptivas.
-Usa el código con precaución.
-¡Con esto hemos terminado oficialmente de blindar y potenciar todo tu ecosistema de GitHub! Tus repositorios ahora hablan el lenguaje de negocio que los gerentes y reclutadores buscan.
-¿Cómo te gustaría proceder ahora?
-• Pasar a la siguiente fase del reporte del experto y comenzar a optimizar tu perfil de LinkedIn.
-• Revisar la descripción o bio principal de tu perfil general de GitHub para integrar la presentación que sugirió el experto.
 
 
-## Cómo abrir el notebook en Google Colab
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BwMOUSZit072oz_Cc_hoBoYg5sYE0sPD#scrollTo=27eb89b5)
-
-O también puedes usar este enlace directo: [Abrir en Google Colab](https://colab.research.google.com/drive/1BwMOUSZit072oz_Cc_hoBoYg5sYE0sPD#scrollTo=27eb89b5)
